@@ -1,0 +1,139 @@
+Video_Title,Video_Description,Upload_Date,Duration_Minutes,View_Count,Like_Count,Comment_Count,Channel_Subscriber_Count,Actual_Quality_Score
+Learn Python in 10 Minutes!,Super fast Python tutorial for absolute beginners. No prior experience needed.,2023-01-15,10,980000,12000,800,150000,28
+Complete Python Bootcamp 2024,Comprehensive Python course covering all fundamentals with projects and exercises.,2023-02-10,480,520000,41000,3200,210000,88
+Machine Learning Crash Course,Everything about ML in 5 minutes. Covers neural nets deep learning and more!,2023-01-20,5,1200000,9500,600,300000,18
+Deep Learning with PyTorch,Step by step PyTorch tutorial with real projects. Covers CNNs RNNs and transformers.,2023-03-05,360,280000,24000,1800,180000,85
+Web Dev in 1 Hour,Full stack web development explained in just 60 minutes. HTML CSS JS React Node.,2023-01-25,60,870000,11000,750,220000,32
+React JS Full Course,Complete React tutorial from scratch. Hooks state management routing and deployment.,2023-04-12,420,390000,35000,2700,195000,87
+JavaScript for Beginners,Learn JavaScript basics with clear examples. Variables functions arrays and DOM.,2023-02-28,180,310000,28000,2100,160000,82
+Become a Data Scientist Overnight!,Watch this and you will be job ready tomorrow. Covers pandas numpy sklearn.,2023-01-10,45,1500000,8000,400,400000,15
+SQL Complete Tutorial,Learn SQL from zero to advanced. SELECT JOIN subqueries indexes and optimization.,2023-05-01,300,260000,22000,1600,140000,83
+C++ in 20 Minutes,Learn entire C++ language in 20 minutes. Pointers memory classes templates all covered!,2023-01-08,20,1100000,7500,500,280000,12
+Django REST API Tutorial,Build a complete REST API with Django. Authentication CRUD operations and deployment.,2023-06-15,240,180000,16000,1200,120000,80
+Algorithms and Data Structures,Full course on sorting searching trees graphs. Explained with animations and code.,2023-03-20,540,220000,19000,1500,130000,89
+Earn Money with AI Today,Use ChatGPT and AI tools to make passive income. No coding required!,2023-02-05,30,2000000,14000,900,500000,8
+Docker for Developers,Complete Docker tutorial. Containers images volumes networking and docker compose.,2023-07-10,200,170000,15000,1100,115000,81
+Kubernetes in 15 Minutes,Master Kubernetes in just 15 minutes. Pods deployments services ingress all here.,2023-01-30,15,950000,6000,350,240000,20
+Git and GitHub Complete Guide,Everything about version control. Branching merging pull requests and workflows.,2023-04-25,220,240000,21000,1600,145000,84
+Full Stack in 3 Days!,Become a full stack developer in 72 hours. Frontend backend database deployment.,2023-02-15,180,1300000,10000,650,350000,22
+TypeScript Tutorial,Learn TypeScript from scratch. Types interfaces generics and React with TypeScript.,2023-05-18,280,195000,17500,1300,125000,79
+Build Netflix Clone in 2 Hours,Copy Netflix UI using React and Firebase. Authentication and real time database.,2023-03-10,120,680000,18000,1400,190000,55
+Operating Systems Fundamentals,Processes threads memory management file systems. Theory with practical examples.,2023-06-01,480,95000,9500,800,75000,91
+Crack Any Coding Interview Tomorrow,Watch this one video and pass Google Amazon Microsoft interviews guaranteed.,2023-01-05,60,1800000,12000,700,450000,10
+System Design for Beginners,How to design scalable systems. Load balancing caching databases and microservices.,2023-07-20,300,210000,19000,1400,140000,85
+Pandas for Data Analysis,Complete pandas tutorial. DataFrames merging groupby pivot tables and visualization.,2023-04-08,260,205000,18500,1400,132000,83
+Rust Programming Language,Introduction to Rust. Ownership borrowing lifetimes and building CLI applications.,2023-05-25,320,155000,14000,1050,102000,80
+Secret Algorithm to Beat Leetcode,One trick to solve all leetcode problems. Dynamic programming made easy!,2023-02-20,40,1400000,9000,550,360000,14
+Computer Networks Complete Course,OSI model TCP IP HTTP DNS. Explained with diagrams and wireshark demos.,2023-06-20,420,110000,10500,850,82000,90
+Flutter App Development,Build cross platform mobile apps with Flutter and Dart. Full project included.,2023-07-05,350,160000,14500,1100,108000,78
+AWS Cloud Practitioner,Complete AWS tutorial for cloud fundamentals. EC2 S3 Lambda RDS and IAM explained.,2023-05-10,380,145000,13000,1000,98000,82
+Learn AI Without Math!,Artificial intelligence explained with zero math. Just concepts and buzzwords.,2023-01-28,25,1600000,11000,700,420000,16
+Competitive Programming Roadmap,How to go from beginner to expert in competitive programming. Resources and strategy.,2023-03-28,90,130000,12000,950,88000,76
+Design Patterns in Java,Gang of four patterns explained with real examples. Creational structural behavioral.,2023-06-10,400,105000,10000,800,78000,88
+Make $10000 with Coding,How programmers make passive income with coding. Side hustles and freelancing tips.,2023-02-08,35,1900000,13000,800,480000,9
+Linux Command Line Tutorial,Master the terminal. File system permissions scripting networking and package managers.,2023-04-15,280,185000,16500,1250,118000,81
+Blockchain Explained Simply,How blockchain works. Bitcoin Ethereum smart contracts and NFTs for beginners.,2023-05-05,150,320000,15000,1100,175000,52
+GraphQL API Tutorial,Build a GraphQL API with Node.js. Queries mutations subscriptions and Apollo client.,2023-07-15,230,125000,11500,880,85000,79
+Become Programmer in 30 Days,Complete roadmap to become a programmer from zero. Day by day plan included.,2023-01-22,50,1700000,11500,750,430000,13
+Redis Tutorial for Beginners,Caching with Redis. Strings hashes lists sets sorted sets and pub sub explained.,2023-06-25,180,115000,10500,820,80000,77
+Object Oriented Programming,OOP concepts in Python. Classes objects inheritance polymorphism encapsulation.,2023-04-02,240,230000,20500,1550,148000,86
+This One Line of Code Will Blow Your Mind,Crazy Python one liners that will make you look like a genius programmer.,2023-02-12,15,2100000,16000,1100,520000,11
+Microservices Architecture,Building microservices with Spring Boot. Service discovery API gateway and Docker.,2023-07-25,350,105000,10000,780,76000,84
+Learn Vue.js,Complete Vue 3 tutorial. Composition API state management with Pinia and routing.,2023-05-20,300,140000,12500,960,95000,78
+Cybersecurity for Beginners,Introduction to ethical hacking. Reconnaissance scanning exploitation and reporting.,2023-06-05,320,175000,15500,1180,112000,75
+Regex in 20 Minutes,Learn regular expressions. Patterns groups lookahead lookbehind with examples.,2023-03-15,20,290000,14000,1050,155000,60
+TensorFlow Complete Guide,Build deep learning models with TensorFlow 2. CNNs RNNs and transfer learning.,2023-04-20,380,135000,12000,920,91000,83
+Crack Coding Interview in 1 Week,7 day plan to prepare for technical interviews. DSA system design behavioral.,2023-02-25,70,1350000,9500,600,345000,17
+Spring Boot Tutorial,Build production ready Java REST APIs. Hibernate security testing and deployment.,2023-05-30,420,115000,10500,810,80000,82
+Next.js Full Stack Development,Server side rendering with Next.js. API routes authentication and Vercel deployment.,2023-07-01,310,150000,13500,1030,100000,80
+Data Structures Animated,Every data structure visually explained. Arrays linked lists trees graphs and heaps.,2023-03-25,360,195000,17500,1320,126000,87
+ChatGPT Will Replace Programmers,Why AI will make coding jobs obsolete. The future of software development.,2023-02-01,20,2300000,17000,1200,570000,7
+MongoDB Complete Tutorial,NoSQL database with MongoDB. CRUD aggregation indexing and Mongoose with Node.,2023-06-30,260,125000,11500,880,83000,79
+Hadoop and Spark Tutorial,Big data processing with Hadoop and Apache Spark. MapReduce and DataFrame API.,2023-07-10,400,88000,8500,660,65000,83
+Zero to Hero in Python,Structured Python course from basics to OOP file handling and web scraping.,2023-04-05,360,270000,24000,1820,156000,88
+Solve Leetcode While You Sleep,Subconscious learning tricks to crack coding problems. Passive programming tips.,2023-01-18,30,1550000,10000,650,395000,6
+Ansible for DevOps,Infrastructure automation with Ansible. Playbooks roles variables and AWS provisioning.,2023-06-15,280,95000,9000,700,70000,80
+Interview Questions in 1 Video,Top 200 interview questions answered. Watch this before any coding interview.,2023-02-22,90,1250000,9000,580,320000,19
+Haskell for Beginners,Functional programming with Haskell. Type system monads and IO explained gently.,2023-05-15,300,65000,7000,560,48000,78
+Build a Startup in a Weekend!,Code your entire startup from idea to deployment in 48 hours. No excuses.,2023-01-14,60,1400000,10500,680,360000,14
+Apache Kafka Tutorial,Event streaming with Kafka. Producers consumers topics partitions and Spring integration.,2023-07-20,300,90000,8500,660,67000,82
+Vim for Beginners,Master the Vim editor. Modes commands macros buffers and configuration.,2023-04-10,160,145000,13000,990,97000,72
+Svelte JS Framework,Build reactive web apps with Svelte. No virtual DOM fast and lightweight.,2023-05-25,220,110000,10000,770,75000,76
+Neural Networks from Scratch,Implement neural networks using only numpy. Forward pass backpropagation and training.,2023-03-30,400,145000,13500,1020,97000,89
+Top 10 Programming Languages to Learn,Ranking of best programming languages for jobs salary and future prospects.,2023-02-18,25,1800000,13500,900,460000,21
+Elixir and Phoenix Framework,Concurrent web development with Elixir. GenServer supervisors and real time Phoenix.,2023-06-20,320,58000,6500,510,43000,81
+Ethical Hacking Full Course,Penetration testing from zero. Networking web apps mobile and social engineering.,2023-04-30,600,160000,14500,1100,105000,82
+CSS Flexbox and Grid,Master modern CSS layouts. Flexbox properties grid areas responsive design.,2023-03-18,180,225000,20000,1510,145000,85
+Quick Tricks Hackers Use,10 sneaky tricks programmers use to write less code. Lazy coding secrets revealed.,2023-01-12,20,1900000,14000,900,480000,13
+Terraform Infrastructure as Code,Provision cloud infrastructure with Terraform. State management modules and AWS.,2023-07-05,280,85000,8000,630,63000,81
+Probability for Machine Learning,Probability and statistics fundamentals for ML. Bayes theorem distributions and MLE.,2023-05-08,380,92000,8800,690,68000,87
+Build REST API in 30 Minutes,Create a REST API with Node and Express quickly. CRUD authentication deployment.,2023-02-28,30,760000,18000,1380,190000,48
+Computer Vision with OpenCV,Image processing and computer vision. Object detection face recognition and tracking.,2023-04-18,340,120000,11000,850,80000,82
+Coding Will Make You Rich!,How programming skills lead to high paying jobs and financial freedom. Motivation.,2023-01-16,22,2100000,15000,1000,520000,8
+Golang Tutorial for Beginners,Learn Go from scratch. Goroutines channels interfaces and building a REST API.,2023-06-08,310,130000,11500,890,87000,80
+SOLID Principles Explained,Software design principles in Python and Java. With real world examples and refactoring.,2023-05-12,200,105000,9800,760,74000,85
+Build Game in Unity in 1 Hour,Create a complete 2D platformer game from scratch. Physics animations and UI.,2023-03-12,60,450000,22000,1700,195000,58
+Linear Algebra for Data Science,Vectors matrices eigenvalues SVD and their applications in ML explained clearly.,2023-06-25,420,88000,8500,660,65000,90
+GitHub Actions CI CD,Automate testing deployment with GitHub Actions. Workflows jobs and Docker integration.,2023-07-15,220,95000,9000,700,70000,79
+I Learned to Code in 24 Hours,My journey learning to code in one day. What worked what did not and results.,2023-02-06,20,1700000,12000,800,430000,11
+Scala and Functional Programming,Functional programming concepts in Scala. Pattern matching collections and Akka.,2023-05-28,360,62000,6800,530,46000,82
+FastAPI Python Tutorial,Build production APIs with FastAPI. Pydantic authentication async and deployment.,2023-06-12,250,135000,12000,920,90000,81
+Data Engineering with Airflow,Orchestrate data pipelines with Apache Airflow. DAGs operators sensors and scheduling.,2023-07-22,320,80000,7800,610,60000,83
+Quantum Computing for Beginners,Introduction to quantum computing. Qubits superposition entanglement and Qiskit.,2023-04-28,200,145000,10500,820,97000,65
+Solidity Smart Contracts,Build Ethereum smart contracts with Solidity. ERC20 tokens NFTs and DeFi protocols.,2023-05-22,280,120000,9500,740,80000,68
+Top 5 Coding Mistakes Beginners Make,Common errors new programmers make and how to avoid them. Clean code tips.,2023-03-08,30,580000,19000,1450,190000,55
+Calculus for Machine Learning,Derivatives gradients chain rule. How calculus is used in gradient descent.,2023-06-18,380,82000,8000,630,61000,88
+Debugging Techniques in Python,How to debug Python programs. Print statements debugger logging and profiling.,2023-04-22,160,155000,14000,1060,103000,79
+Build Chrome Extension,Create a Chrome extension from scratch. Manifest popup background and content scripts.,2023-05-16,150,175000,15500,1180,115000,74
+Prompt Engineering Masterclass,Become an expert in prompting AI models. Techniques templates and real use cases.,2023-07-28,180,280000,16000,1220,175000,58
+NLP with Hugging Face,Natural language processing with transformers. Fine tuning BERT GPT and deployment.,2023-06-28,350,105000,9800,760,76000,84
+Kubernetes Deep Dive,Advanced Kubernetes. StatefulSets operators Helm charts monitoring and security.,2023-07-18,450,72000,7200,560,54000,85
+R for Data Science,Data analysis and visualization with R. ggplot2 dplyr tidyr and statistical modeling.,2023-05-05,340,95000,9000,700,70000,82
+Become 10x Programmer Instantly,Secret habits of elite programmers. What separates average coders from rockstars.,2023-01-25,25,2000000,14500,950,500000,10
+Webpack and Babel,Module bundling and transpilation for JavaScript projects. Loaders plugins and optimization.,2023-04-14,180,90000,8500,660,67000,74
+Networking for Programmers,TCP IP HTTP HTTPS DNS and how the internet works. From bits to web pages.,2023-05-20,260,110000,10200,790,76000,83
+Data Visualization with Matplotlib,Create charts and plots with Matplotlib. Line bar scatter heatmap and subplots.,2023-03-22,200,165000,14800,1120,110000,79
+Build AI Chatbot in 5 Minutes,Create your own ChatGPT clone using OpenAI API in 5 minutes flat. Easy!,2023-02-14,5,1600000,11500,750,410000,17
+Microcontrollers with Arduino,Programming Arduino. Sensors actuators communication protocols and IoT projects.,2023-06-22,300,105000,9800,760,76000,76
+Leetcode Patterns,Recognize and solve coding patterns. Sliding window two pointers BFS DFS and DP.,2023-04-26,360,170000,15500,1180,112000,83
+Zero to Full Stack in 6 Months,Realistic roadmap to become a full stack developer. Resources practice and projects.,2023-03-02,120,320000,21000,1600,175000,70
+Statistical Learning Theory,PAC learning VC dimension regularization and generalization bounds for ML.,2023-07-12,420,55000,5800,450,41000,91
+Advanced SQL Techniques,Window functions CTEs recursive queries and query optimization with execution plans.,2023-05-28,300,102000,9600,750,74000,85
+Clean Code Principles,Writing readable maintainable code. Naming functions comments and refactoring practices.,2023-04-04,220,175000,15800,1200,116000,86
+OpenGL Graphics Programming,3D graphics programming with OpenGL. Shaders textures lighting and transformations.,2023-06-14,400,70000,7000,550,52000,84
+Vim vs VS Code vs Emacs,Comparing code editors. Features productivity shortcuts and which one to choose.,2023-02-10,30,680000,17000,1300,190000,42
+Reinforcement Learning,Q learning policy gradient actor critic. Implement RL agents from scratch.,2023-05-18,400,78000,7600,590,57000,87
+Build SaaS Product from Scratch,Complete guide to building and launching a SaaS product. Tech stack to marketing.,2023-07-08,300,195000,15000,1150,128000,65
+Pattern Recognition with ML,How machines learn to recognize patterns. Feature extraction dimensionality reduction.,2023-06-16,340,85000,8200,640,63000,85
+Top Programming Memes Explained,Explaining the funniest coding memes. Why programmers relate to these situations.,2023-03-05,25,1300000,20000,1500,340000,25
+Time Complexity and Big O,Analyze algorithm efficiency. O(n) O(log n) O(n²) with examples and exercises.,2023-04-08,220,195000,17500,1320,128000,86
+Web Scraping with Python,Scrape websites using BeautifulSoup and Scrapy. Handling pagination login and APIs.,2023-05-14,240,165000,14800,1120,110000,78
+Build REST API with Spring Boot,Complete Spring Boot API. JPA security JWT authentication and Docker deployment.,2023-06-10,380,108000,10200,790,78000,83
+100 Python Projects for Beginners,Build 100 practical Python projects. From calculator to web app to automation.,2023-03-28,720,230000,20500,1550,150000,82
+The BEST Way to Learn Coding,Most efficient path to learn programming. Techniques and resources that actually work.,2023-02-16,40,1100000,14000,950,290000,35
+Bash Scripting Tutorial,Automate tasks with bash. Variables loops functions file operations and cron jobs.,2023-04-16,240,138000,12500,960,92000,80
+Cloud Architecture Patterns,Design patterns for cloud native applications. CQRS event sourcing saga and strangler fig.,2023-07-24,360,72000,7200,560,54000,86
+Intro to Compilers,Lexical analysis parsing semantic analysis code generation. Build a simple compiler.,2023-06-26,480,48000,5200,410,36000,92
+LangChain for LLM Applications,Build AI applications with LangChain. Chains agents memory and RAG pipelines.,2023-07-26,280,195000,14000,1070,128000,63
+Embedded Systems with C,Programming microcontrollers in C. GPIO interrupts timers UART I2C and SPI.,2023-05-24,400,68000,6800,530,50000,84
+Blazor Web Development,Build web apps with C# and Blazor. Components state management and server hosting.,2023-06-28,300,72000,7200,560,54000,76
+I Made $100K Freelancing,How I earned six figures as a freelance developer. Clients projects and rates.,2023-01-20,30,1800000,13000,850,460000,9
+Mathematical Optimization,Gradient descent Newton method and convex optimization for machine learning.,2023-07-28,380,58000,6000,470,43000,89
+Caching Strategies Explained,In memory caching with Redis Memcached. Cache invalidation TTL and strategies.,2023-05-30,200,95000,9000,700,70000,80
+Functional Programming Concepts,Pure functions immutability higher order functions and monads with examples.,2023-04-20,260,105000,9800,760,74000,82
+Low Level Programming with C,Pointers memory allocation bit manipulation and interfacing with the OS in C.,2023-06-24,420,72000,7200,560,54000,86
+How I Built 50 Apps in 50 Days,Building one app per day for 50 days. Projects learnings and productivity tips.,2023-03-10,45,950000,18000,1380,248000,38
+Probabilistic Graphical Models,Bayesian networks Markov random fields inference and learning algorithms.,2023-07-22,440,42000,4800,380,31000,91
+Android Development with Kotlin,Build Android apps with Kotlin. Activities fragments RecyclerView and Room database.,2023-05-26,380,125000,11500,880,83000,79
+Data Science Portfolio Projects,5 data science projects for your portfolio. EDA modeling and presentation tips.,2023-04-24,300,148000,13500,1030,98000,77
+Parallel Programming in C++,Multi threading with std thread mutex condition variables and parallel algorithms.,2023-07-20,360,62000,6500,510,46000,85
+The Only Coding Roadmap You Need,One video to rule all roadmaps. How to become a developer with no wasted time.,2023-01-30,45,1650000,12000,800,420000,12
+Concurrency in Go,Goroutines channels select WaitGroups and building concurrent programs in Go.,2023-06-22,280,88000,8500,660,65000,83
+Intro to Game Theory,Strategic decision making for computer scientists. Nash equilibrium and mechanism design.,2023-05-16,340,65000,6800,530,48000,84
+iOS Development with Swift,Build iPhone apps with Swift and SwiftUI. Views navigation data persistence and APIs.,2023-04-28,400,118000,11000,850,80000,80
+Interview Cheat Sheet One Page,All DSA concepts on one page. Print this before your coding interview tomorrow.,2023-02-04,10,2200000,16000,1100,550000,5
+Distributed Systems,CAP theorem consistency availability partition tolerance. Raft Paxos and consensus.,2023-06-30,480,58000,6200,490,43000,92
+Unit Testing in Python,Write tests with pytest. Fixtures mocking parametrize and test driven development.,2023-05-10,220,118000,11000,850,80000,81
+Message Queues and RabbitMQ,Asynchronous messaging with RabbitMQ. Exchanges queues bindings and consumer patterns.,2023-07-16,260,78000,7600,590,57000,80
+Coding at 3AM and It Works,Vlog of a programmer debugging at 3am. Relatable developer moments and humor.,2023-02-24,15,1400000,22000,1700,360000,16
+Information Retrieval Systems,Search engines from scratch. Inverted index TF-IDF BM25 and vector space models.,2023-07-26,420,45000,5000,390,33000,90
