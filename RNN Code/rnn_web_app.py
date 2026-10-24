@@ -5,7 +5,7 @@ import pypickle
 
 st.title("Movie Review Sentinant Analysis")
 
-words_dic = pypickle.load("word_token_ids.pkl")
+words_dic = pypickle.load("RNN Code/word_token_ids.pkl")
 
 def convert_text_into_word_id(text):
    text = text.lower().split()
@@ -26,7 +26,7 @@ def convert_text_into_word_id(text):
 
 @st.cache_resource
 def load_rnn_model():
-    model = load_model("movie_review_detection.keras")
+    model = load_model("RNN Code/movie_review_detection.keras")
     return model
 
 
