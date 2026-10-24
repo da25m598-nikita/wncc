@@ -41,10 +41,10 @@ if isClicked:
     pred = rnn.predict(word_ids)
     with st.spinner("Processing......."):
         if pred >= 0.5:
-            st.image("./positive.jpg",width=200)
+            st.image("RNN Code/positive.jpg",width=200)
             st.success("Positive Review")
         else:
-            st.image("./negative.jpg",width=200)
+            st.image("RNN Code/negative.jpg",width=200)
             st.error("Negative Review")
 
 
